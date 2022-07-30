@@ -8,8 +8,8 @@
     <color name="secondary_700">#afb42b</color>
     <color name="secondary_900">#827717</color>
 
-    <color name="favorite_active">#ffeb3b</color>
-    <color name="favorite_inactive">#4caf50</color>
+    <color name="favorite_active">#4caf50</color>
+    <color name="favorite_inactive">#A7A4A4</color>
 
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
