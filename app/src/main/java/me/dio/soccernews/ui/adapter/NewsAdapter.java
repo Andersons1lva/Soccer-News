@@ -15,7 +15,7 @@ import java.util.List;
 
 import me.dio.soccernews.R;
 import me.dio.soccernews.databinding.NewsItemBinding;
-import me.dio.soccernews.doman.News;
+import me.dio.soccernews.domain.News;
 
 public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.ViewHolder> {
 

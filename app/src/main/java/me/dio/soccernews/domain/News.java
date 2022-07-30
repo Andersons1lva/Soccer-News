@@ -1,4 +1,4 @@
-package me.dio.soccernews.doman;
+package me.dio.soccernews.domain;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
